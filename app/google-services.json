@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69116213747",
+    "project_id": "book-catalogue-45b6c",
+    "storage_bucket": "book-catalogue-45b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69116213747:android:f616c9f24686bfe33f7a86",
+        "android_client_info": {
+          "package_name": "com.jaleny.bookcatalogue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAarK3pn8tFu5uVSkNvR10wpIMyV_pEtw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
